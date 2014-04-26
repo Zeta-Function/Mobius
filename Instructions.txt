@@ -1,0 +1,11 @@
+Mobius Lister - Instructions
+
+Walk left/right A/D
+Jump W
+
+
+Key picks up on contact with player
+When key has been picked up, press space while standing on the finish chip
+
+Left click on red objects to interact with them
+Choose desired property with a left click
